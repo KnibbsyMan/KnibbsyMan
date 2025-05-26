@@ -21,7 +21,8 @@
 ![UI: Blazor](https://img.shields.io/badge/UI-Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
 
 ## 🧑‍💻 About Me
-There’s something incredibly satisfying about turning a long, manual process into just a few lines of code.
+I have nearly 10 years of experience in industrial manufacturing within an enterprise-level organization.
+I’ve implemented and integrated a range of industrial systems to help drive the facility’s transition toward Industry 4.0.
 
 ## 🔧 Tools & Technologies I Use
 - **Systems**: SAP ERP / SAP ME, ThingWorx, Kepware, OPC Router, Apache NiFi, Studio 5000, FactoryTalk View ME/SE
